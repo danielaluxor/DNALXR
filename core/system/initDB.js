@@ -11,7 +11,7 @@ function initDB(m, client) {
   settings.nameid ??= "'ೃ࿔ Dana Lxr .ೃ࿐"
   settings.type ??= 'Owner'
   settings.link ??= 'https://api.yuki-wabot.my.id'
-  settings.banner ??= 'https://cdn.yuki-wabot.my.id/files/tCVD.jpeg'
+  settings.banner ??= 'https://files.catbox.moe/tlv092.jpg'
   settings.icon ??= 'https://cdn.yuki-wabot.my.id/files/PJDp.jpeg'
   settings.currency ??= 'Yenes'
   settings.namebot ??= 'Dana'
